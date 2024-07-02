@@ -1,6 +1,8 @@
 # Telegram Full-Stack Application
 
-This project is a full-stack, frontend-centric application designed for Telegram Messenger. It leverages the Telegram Bot API and Telegram's Mini Apps to create dynamic, flexible web interfaces that integrate seamlessly with Telegram.
+This project is a full-stack, frontend-centric MiniApp application designed for Telegram Messenger. It leverages the Telegram Bot API and Telegram's Mini Apps to create dynamic, flexible web interfaces that integrate seamlessly with Telegram.
+
+https://core.telegram.org/bots/webapps
 
 ## Features
 
